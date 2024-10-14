@@ -76,8 +76,19 @@ a {
     margin-bottom: 0;
     font-size: 12px;
     letter-spacing: 5px;
+    background-color: #A5B68D;
 }
 
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
+}
+
+#logo {
+    background-color: #ECDFCC;
+    padding: 10px;
+    border-color: green;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 15px;
+
 }
