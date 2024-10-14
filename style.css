@@ -78,6 +78,11 @@ a {
     letter-spacing: 5px;
 }
 
+#vaxy{
+    background-color: #A5B68D;
+
+}
+
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
 }
