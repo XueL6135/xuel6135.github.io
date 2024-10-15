@@ -35,13 +35,13 @@ a {
 }
 
 .bg-1 {
-    background-color: #e3f3df; /* green light */
+    background-color: #624E88; /* green light */
     color: #555555;
 }
 
 .bg-2 {
-    background-color: #78c360; /* Green dark */
-    color: #ffffff;
+    background-color: #8967B3; /* Green dark */
+    color: #A6B37D;
 }
 
 .card {
@@ -54,12 +54,12 @@ a {
 }
 
 .bg-3 {
-    background-color: #dffaa8; /* Lavender */
+    background-color: #CB80AB; /* Lavender */
     color: #ffffff;
 }
 
 .bg-4 {
-    background-color: #fafccc; /* light yellow */
+    background-color: #E6D9A2; /* light yellow */
     color: #fff;
 }
 
@@ -78,21 +78,11 @@ a {
     letter-spacing: 5px;
 }
 
-#vaxy{
-    background-color: #A5B68D;
-
-}
-
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
 }
 
 #logo {
-    background-color: #ECDFCC;
     padding: 10px;
-    border-color: green;
-    border-width: 5px;
-    border-style: solid;
-    border-radius: 15px;
 
 }
